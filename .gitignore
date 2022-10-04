@@ -1,0 +1,6 @@
+.qtc_clangd/
+
+*.bak
+*.bkp
+
+*.pro.user.*
